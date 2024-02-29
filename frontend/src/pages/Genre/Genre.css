@@ -1,0 +1,14 @@
+.genre__list {
+    padding: 0 3rem 3rem 3rem;
+}
+
+.genre__title {
+font-size: 1.75rem;
+margin:  2.5rem;
+}
+
+.genre__cards {
+    display: flex;
+    flex-wrap: wrap ;
+    justify-content: center;
+}
